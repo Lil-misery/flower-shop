@@ -345,7 +345,7 @@ z-index: 1;
   font-weight: normal;
           }
           .clients-rewiews {
-            border: 1px solid rgba(174, 124, 120, 1);
+            border: 1px solid #ae7c78;
             margin: 0px 120px 0px 120px;
             width: 1200px;
             height: 308px;
@@ -400,7 +400,7 @@ z-index: 1;
 .location-container {
   display: flex;
   flex-direction: column;
-  background-color: rgba(247, 250, 252, 1);
+  background-color: #f7fafc;
   width: 386px;
   height: 520px;
   margin: 47px 859px 77px 195px;
@@ -474,7 +474,7 @@ z-index: 1;
   width: 1440px;
  height: 97px;
 list-style: none;
-background-color: rgba(174, 124, 120, 1);
+background-color: #ae7c78;
 }
 .footer-list .logo {
   margin: 24px 103px 41px 125px;
@@ -518,7 +518,7 @@ background-color: rgba(174, 124, 120, 1);
     line-height: 20px;
     font-style: normal;
     font-weight: 400;
-    filter: drop-shadow(0 0 4px rgba(0, 0, 0, 0.25));
+    filter: drop-shadow(0 0 4px #00000040);
        }
 h2 {
   font-size: 36px;
